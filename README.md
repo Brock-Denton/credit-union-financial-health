@@ -9,7 +9,7 @@ Built a tool for credit unions in order for them to evaulate their financial hea
 ---
 ## Please navigate to [financial health](https://github.com/Brock-Denton/credit-union-financial-health/blob/main/tool_resources/financial_planning_tools.ipynb)
 ---
-## Please ensure to have this file within your folder when running the [monte carlo](https://github.com/Brock-Denton/credit-union-financial-health/blob/main/tool_resources/MCForecastTools.py)  
+## Please ensure to have this [file](https://github.com/Brock-Denton/credit-union-financial-health/blob/main/tool_resources/MCForecastTools.py) within your folder when running the monte carlo
 ---
 ## Contributor
 ### Brock Denton, Brockchecksmail@gmail.com 
